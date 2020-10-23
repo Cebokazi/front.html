@@ -1,1 +1,1 @@
-# front.html
+# slideshowsmagazine.html
